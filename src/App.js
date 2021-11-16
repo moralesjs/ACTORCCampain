@@ -1,5 +1,6 @@
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <Header />
 
       <Wrapper />
+      <Footer />
     </>
   );
 }

@@ -7,7 +7,7 @@ import Email from "./Email";
 
 function Wrapper() {
   return (
-    <div className="wrapper" id="#Hashtag">
+    <div className="wrapper">
       <div className="parallax filter-gradient blue" data-color="red">
         <div className="parallax-background">
           <img
@@ -38,15 +38,22 @@ function Wrapper() {
                 </h5>
               </div>
               <div className="buttons">
-                <button className="btn btn-simple btn-neutral">
-                  <i className="fa fa-twitter"></i>
-                </button>
-                <button className="btn btn-simple btn-neutral">
+                <a
+                  className="btn btn-simple btn-neutral"
+                  href="https://www.instagram.com/solidairactor/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <i className="fa fa-instagram"></i>
-                </button>
-                <button className="btn btn-simple btn-neutral">
+                </a>
+                <a
+                  className="btn btn-simple btn-neutral"
+                  href="https://www.facebook.com/SOLIDAIRinACTOR"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <i className="fa fa-facebook"></i>
-                </button>
+                </a>
               </div>
             </div>
           </div>
@@ -98,12 +105,7 @@ function Wrapper() {
         </div>
       </div>
       <Hashtag />
-      <Stands
-        googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyDv7tQ42L6jgk3YQDNxz2flgX_i0X46qbE"
-        loadingElement={<div style={{ height: `100%` }} />}
-        containerElement={<div style={{ height: `400px` }} />}
-        mapElement={<div style={{ height: `100%` }} />}
-      />
+      <Stands />
 
       {/* <div className="section section-testimonial">
         <div className="container">
@@ -170,41 +172,6 @@ function Wrapper() {
         </div>
       </div> */}
       <Email />
-      <footer className="footer">
-        <div className="container">
-          <nav className="pull-left">
-            <ul>
-              <li>
-                <a href="/#">Home</a>
-              </li>
-              <li>
-                <a href="/#">Company</a>
-              </li>
-              <li>
-                <a href="/#">Portfolio</a>
-              </li>
-              <li>
-                <a href="/#">Blog</a>
-              </li>
-            </ul>
-          </nav>
-          <div className="social-area pull-right">
-            <a className="btn btn-social btn-facebook btn-simple" href="/">
-              <i className="fa fa-facebook-square"></i>
-            </a>
-            <a className="btn btn-social btn-twitter btn-simple" href="/">
-              <i className="fa fa-twitter"></i>
-            </a>
-            <a className="btn btn-social btn-pinterest btn-simple" href="/">
-              <i className="fa fa-pinterest"></i>
-            </a>
-          </div>
-          <div className="copyright">
-            &copy; 2016 <a href="http://www.creative-tim.com">Creative Tim</a>,
-            made with love
-          </div>
-        </div>
-      </footer>
     </div>
   );
 }

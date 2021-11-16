@@ -27,10 +27,7 @@ class Hashtag extends Component {
                 className="carousel fade"
                 data-ride="carousel"
               >
-                <div
-                  className="carousel-inner"
-                  // style={{ width: "455px", height: "455px" }}
-                >
+                <div className="carousel-inner">
                   {lives.map((live, index) => (
                     <div
                       className={index === 0 ? "item active" : "item"}
