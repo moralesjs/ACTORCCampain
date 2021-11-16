@@ -16,8 +16,9 @@ function Features() {
                   {" "}
                   <h4>Online Live Sessions</h4>
                   <p>
-                    Every week we prepare online Session were we talk and
-                    interact with all the interested people.
+                    We are doing every week two live online sessions on Instagram and Facebook in which we talk about the 
+                    project and the things we do in the routine in addition to very varied topics. We would love 
+                    you to join us so we can interact with you.
                   </p>
                 </div>
               </div>
@@ -31,8 +32,8 @@ function Features() {
                 </div>
                 <h4>Street stands</h4>
                 <p>
-                  Changing our manufactured products for food or clothes for the
-                  most needed people
+                For this Christmas campaign, we have decided to take to the streets and exchange our manufactured 
+                products for food, clothes or any other necessary product for the most needed people.
                 </p>
               </div>
             </a>
@@ -45,8 +46,8 @@ function Features() {
                 </div>
                 <h4>Puppets show</h4>
                 <p>
-                  Take payments and run your business on the go, in your store
-                  and then see how it all adds up with analytics.
+                  One of our activities is puppets, we prepare performances for our centers and we have a really
+                  great time together. 
                 </p>
               </div>{" "}
             </a>
