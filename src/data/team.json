@@ -1,0 +1,17 @@
+{
+  "Alvaro": {
+    "pais": "ES",
+    "foto": "alvaro.png",
+    "bio": "El mejor voluntario que hay. Programador de esta web."
+  },
+  "Elodie": {
+    "pais": "FR",
+    "foto": "elodie.jpeg",
+    "bio": "Hola me llamo elodia y amo el teatro"
+  },
+  "Ana": {
+    "pais": "GE",
+    "foto": "ana.jpeg",
+    "bio": "Georgia 4 ever !!!! Aprendiendo español y bebiendo vino"
+  }
+}
