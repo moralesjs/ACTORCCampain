@@ -25,10 +25,12 @@ class Countries extends Component {
       <div className="section section-gray section-clients">
         <div className="container text-center">
           <h3 className="header-text">SOLID.A.I.R.</h3>
-          <p>
-          Solid A.I.R. is a project of the A.C.T.O.R.'s association based on the support of children in animation clinics and 
-          pedagogical projects in social centers. We are many volunteers of different nationalities and we try to do our 
-          best to make them happy. You can find us below.
+          <p style={{ textAlign: "justify " }}>
+            Solid A.I.R. is an A.C.T.O.R. association's project based on the
+            support of children in animation clinics and pedagogical projects in
+            social centers. We are many volunteers of different nationalities
+            and we try to do our best to make them happy. You can find us below.
+            <br />
             <br />
           </p>
           {countries_list.map((code) => (

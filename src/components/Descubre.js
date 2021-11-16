@@ -13,7 +13,7 @@ class Descubre extends Component {
   render() {
     return (
       <>
-        <section id="team" className="pb-5">
+        <section id="team" className="pb-5" style={{ paddingTop: "20px" }}>
           <div className="container">
             <h3 className="header-text">OUR TEAM</h3>
             <div className="row">
