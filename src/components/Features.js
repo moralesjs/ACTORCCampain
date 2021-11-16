@@ -24,7 +24,7 @@ function Features() {
             </a>
           </div>{" "}
           <div className="col-md-4">
-            <a href="#Hashtag">
+            <a href="#Stands">
               <div className="card card-blue">
                 <div className="icon">
                   <i className="pe-7s-bell"></i>

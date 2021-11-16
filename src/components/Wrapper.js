@@ -3,6 +3,7 @@ import Features from "./Features";
 import Hashtag from "./Hashtag";
 import Countries from "./Countries";
 import Stands from "./Stands";
+import Email from "./Email";
 
 function Wrapper() {
   return (
@@ -104,7 +105,7 @@ function Wrapper() {
         mapElement={<div style={{ height: `100%` }} />}
       />
 
-      <div className="section section-testimonial">
+      {/* <div className="section section-testimonial">
         <div className="container">
           <h4 className="header-text text-center">What people think</h4>
           <div
@@ -112,7 +113,6 @@ function Wrapper() {
             className="carousel fade"
             data-ride="carousel"
           >
-            {/* <!-- Wrapper for slides --> */}
             <div className="carousel-inner" role="listbox">
               <div className="item">
                 <div className="mask">
@@ -168,28 +168,8 @@ function Wrapper() {
             </ol>
           </div>
         </div>
-      </div>
-      <div className="section section-no-padding">
-        <div className="parallax filter-gradient blue" data-color="red  ">
-          <div className="parallax-background">
-            <img
-              className="parallax-background-image"
-              src="assets/img/template/bg3.jpg"
-              alt=""
-            />
-          </div>
-          <div className="info">
-            <h1>Download this landing page for free!</h1>
-            <p>Beautiful multipurpose bootstrap landing page.</p>
-            <a
-              href="http://www.creative-tim.com/product/awesome-landing-page"
-              className="btn btn-neutral btn-lg btn-fill"
-            >
-              DOWNLOAD
-            </a>
-          </div>
-        </div>
-      </div>
+      </div> */}
+      <Email />
       <footer className="footer">
         <div className="container">
           <nav className="pull-left">

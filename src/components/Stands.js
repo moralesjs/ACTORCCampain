@@ -10,7 +10,7 @@ import places from "../data/stands.json";
 class Stands extends Component {
   render() {
     return (
-      <div className="section section-presentation  ">
+      <div className="section section-presentation  " id="Stands">
         <div className="container overflow-auto">
           <h2 className="header-text">Street Stands</h2>
           <br />

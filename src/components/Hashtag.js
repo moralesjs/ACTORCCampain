@@ -29,14 +29,13 @@ class Hashtag extends Component {
               >
                 <div
                   className="carousel-inner"
-                  style={{ width: "455px", height: "455px" }}
+                  // style={{ width: "455px", height: "455px" }}
                 >
                   {lives.map((live, index) => (
                     <div
                       className={index === 0 ? "item active" : "item"}
                       key={live}
                     >
-                      {/* <img src="assets/img/live/live1.png" alt="" /> */}
                       <img src={`${liveFile}${live}`} alt="" />
                     </div>
                   ))}

@@ -13,5 +13,44 @@
     "pais": "GE",
     "foto": "ana.jpeg",
     "bio": "Georgia 4 ever !!!! Aprendiendo español y bebiendo vino"
+  },
+  "Maria G": {
+    "foto": "maria.jpeg",
+    "pais": "ES",
+    "bio": "La cena siempre con leche! Me gusta disfrutar de la naturaleza y convivir con las vacas asturianas"
+  },
+  "Sandra": {
+    "foto": "sandra.jpeg",
+    "pais": "FR",
+    "bio": "Estoy en un poquito loco! Cantante y guitarrista a tiempo completo. Mi especialidad: carrots cagbonara"
+  },
+  "Charline": {
+    "foto": "charline.jpeg",
+    "pais": "FR",
+    "bio": "I JUST SAW I CAT, I AM HER MUM. LOOK AT THE PICTURES"
+  },
+  "Ozan": {
+    "foto": "ozan.jpeg",
+    "pais": "TR"
+  },
+  "Cris": {
+    "foto": "cris.png",
+    "pais": "ES"
+  },
+  "Briana": {
+    "foto": "briana.jpeg",
+    "pais": "AR"
+  },
+  "Dani": {
+    "foto": "dani.jpeg",
+    "pais": "ES"
+  },
+  "Salomé": {
+    "foto": "salome.jpeg",
+    "pais": "FR"
+  },
+  "Irene": {
+    "foto": "irene.jpeg",
+    "pais": "IT"
   }
 }

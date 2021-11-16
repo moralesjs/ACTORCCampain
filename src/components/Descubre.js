@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import ReactCountryFlag from "react-country-flag";
 import profiles from "../data/team.json";
 
-// const profiles = ["Alvaro", "Maria", "Gye"];
-
 class Descubre extends Component {
   // constructor(props) {
   //   super(props);
@@ -17,7 +15,7 @@ class Descubre extends Component {
       <>
         <section id="team" className="pb-5">
           <div className="container">
-            <h3 className="header-text">Nuestro equipo</h3>
+            <h3 className="header-text">OUR TEAM</h3>
             <div className="row">
               {/* <!-- Team member --> */}
 
@@ -42,38 +40,24 @@ class Descubre extends Component {
                               <div className="card-body text-center">
                                 <p>
                                   <img
-                                    style={{ marginTop: "80px" }}
+                                    style={{
+                                      marginTop: "60px",
+                                      boxShadow:
+                                        "5px 7px 15px 0px rgb(158, 158, 158)",
+                                      marginBottom: "20px",
+                                    }}
                                     className=" img-fluid"
                                     src={`assets/img/team/${profiles[key].foto}`}
                                     alt="mage"
                                   />
                                 </p>
-                                <h4
-                                // style={{ marginBottom: "20px" }}
-                                >
+                                <h3>
                                   {key}{" "}
                                   <ReactCountryFlag
                                     countryCode={profiles[key].pais}
                                     svg
                                   />
-                                </h4>
-                              </div>
-                            </div>
-                          </div>
-                          <div className="backside">
-                            <div className="card">
-                              <div className="card-body text-center mt-4">
-                                <h4 className="card-title">{key}</h4>
-
-                                {profiles[key].bio ? (
-                                  <p className="card-text">
-                                    {profiles[key].bio}
-                                  </p>
-                                ) : (
-                                  <p className="card-text">
-                                    Aún no tiene biografia pero pronto la tendrá
-                                  </p>
-                                )}
+                                </h3>
                               </div>
                             </div>
                           </div>
