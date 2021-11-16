@@ -26,8 +26,9 @@ class Countries extends Component {
         <div className="container text-center">
           <h3 className="header-text">SOLID.A.I.R.</h3>
           <p>
-            BLA BLA BLA ALGO DE INTRODUCCIÓN POR RELLENAR ESTA PRIMERA CABECERA
-            MÁS ELABORADA QUE LA ANTERIOR!
+          Solid A.I.R. is a project of the A.C.T.O.R.'s association based on the support of children in animation clinics and 
+          pedagogical projects in social centers. We are many volunteers of different nationalities and we try to do our 
+          best to make them happy. You can find us below.
             <br />
           </p>
           {countries_list.map((code) => (

@@ -51,13 +51,12 @@ class Hashtag extends Component {
             </div>
             <div className="col-md-5 col-md-offset-1">
               <h3 className="header-text">Our lives!</h3>
-              <p>Todos los lives que hemos realizado hasta ahora!</p>
+              <p>Here you can find all live videos done since now.</p>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                efficitur mi ante, nec mattis urna iaculis vel. Nulla gravida
-                nibh a ipsum iaculis, non maximus velit consequat. Cras vel
-                lacinia dui, et sollicitudin nisl. Duis ultricies dapibus
-                eleifend. Mauris at viverra diam.
+              We are excited about a new activity we are starting these days. We thought we would do 
+                    every week two live online sessions on Instagram and Facebook in which we talk about the 
+                    project and the things we do in the routine in addition to very varied topics. We would love 
+                    you to join us so we can interact with you.
               </p>
               <a
                 href="https://www.instagram.com/solidairactor/"
