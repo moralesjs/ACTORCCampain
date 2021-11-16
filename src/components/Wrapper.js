@@ -30,7 +30,7 @@ function Wrapper() {
             </div>
             <div className="col-md-6 col-md-offset-1">
               <div className="description">
-                <h2>A.C.T.O.R. CHRISTMAS CAMPAING</h2>
+                <h2>A.C.T.O.R. CHRISTMAS CAMPAIGN</h2>
                 <br />
                 <h5>
                   WE NEED YOUR HELP! Christmas is coming and we are preparing
