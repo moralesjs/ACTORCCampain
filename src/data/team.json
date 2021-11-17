@@ -4,6 +4,14 @@
     "foto": "alvaro.png",
     "bio": "El mejor voluntario que hay. Programador de esta web."
   },
+  "Maria S": {
+    "pais": "RO",
+    "foto": "marias.jpg"
+  },
+  "Clemence": {
+    "pais": "FR",
+    "foto": "clemence.jpeg"
+  },
   "Elodie": {
     "pais": "FR",
     "foto": "elodie.jpeg",
@@ -24,8 +32,12 @@
     "pais": "FR",
     "bio": "Estoy en un poquito loco! Cantante y guitarrista a tiempo completo. Mi especialidad: carrots cagbonara"
   },
+  "Gye": {
+    "pais": "ES",
+    "foto": "gye.jpeg"
+  },
   "Charline": {
-    "foto": "charline.jpeg",
+    "foto": "charline.png",
     "pais": "FR",
     "bio": "I JUST SAW I CAT, I AM HER MUM. LOOK AT THE PICTURES"
   },
@@ -36,6 +48,10 @@
   "Cris": {
     "foto": "cris.png",
     "pais": "ES"
+  },
+  "Laura": {
+    "pais": "AT",
+    "foto": "laura.jfif"
   },
   "Briana": {
     "foto": "briana.jpeg",
