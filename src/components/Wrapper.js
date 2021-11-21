@@ -70,19 +70,26 @@ function Wrapper() {
         aria-label="United States"
       /> */}
       <Features />
-      <div className="section section-presentation" id="Puppets">
+      <div
+        className="section section-presentation"
+        id="Puppets"
+        style={{
+          boxShadow: " 0px 0px 8px 2px  #565E92",
+        }}
+      >
         <div className="container">
           <div className="row">
             <div className="col-md-6">
               <div className="description">
                 <h4 className="header-text">Puppets Show</h4>
                 <p>
-                  And your app is also probably social, awesome, easy-to-use and
-                  vital to users. This is the place to enlist all the good
-                  things that your app has to share. Focus on the benefits that
-                  the uers will receive. Try to combine imaginery with text and
-                  show meaningful printscreens from your app, that will make it
-                  clear what exactly the basic functions are.{" "}
+                  UNDER CONSTRUCTION. And your app is also probably social,
+                  awesome, easy-to-use and vital to users. This is the place to
+                  enlist all the good things that your app has to share. Focus
+                  on the benefits that the uers will receive. Try to combine
+                  imaginery with text and show meaningful printscreens from your
+                  app, that will make it clear what exactly the basic functions
+                  are.{" "}
                 </p>
                 <p>
                   Try to make it very clear for the people browsing the page
@@ -106,7 +113,7 @@ function Wrapper() {
       </div>
       <Hashtag />
       <Stands />
-
+      <br />
       {/* <div className="section section-testimonial">
         <div className="container">
           <h4 className="header-text text-center">What people think</h4>
