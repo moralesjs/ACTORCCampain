@@ -33,8 +33,8 @@ function Wrapper() {
                 <h2>A.C.T.O.R. CHRISTMAS CAMPAIGN</h2>
                 <br />
                 <h5>
-                  WE NEED YOUR HELP! Christmas is coming and we are preparing
-                  everything to make this Christmas incredible for kids
+                  WE REALLY NEED YOUR HELP! Christmas is coming and we are preparing 
+                  a campaign to bring a smile to the most disadvantaged children.
                 </h5>
               </div>
               <div className="buttons">
@@ -83,18 +83,12 @@ function Wrapper() {
               <div className="description">
                 <h4 className="header-text">Puppets Show</h4>
                 <p>
-                  UNDER CONSTRUCTION. And your app is also probably social,
-                  awesome, easy-to-use and vital to users. This is the place to
-                  enlist all the good things that your app has to share. Focus
-                  on the benefits that the uers will receive. Try to combine
-                  imaginery with text and show meaningful printscreens from your
-                  app, that will make it clear what exactly the basic functions
-                  are.{" "}
+                We dedicate part of our time to prepare animations for children with puppets,
+                both animal and humanoid ones. Children really have a great time watching and 
+                interacting with them.
                 </p>
                 <p>
-                  Try to make it very clear for the people browsing the page
-                  that this product will enrich their life and will make a nice
-                  addition to the homescreen.
+                  In this section, you can see some of our shows. We hope you like them!
                 </p>
               </div>
             </div>

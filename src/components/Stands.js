@@ -55,9 +55,9 @@ class Stands extends Component {
                 <div className="col-md-6">
                   <h3>{key}</h3>
                   <h4>{places[key].date}</h4>
-                  <h5 style={{ textAlign: "justify" }}>
+                  <p style={{ textAlign: "justify" }}>
                     {places[key].description}
-                  </h5>
+                  </p>
                 </div>
 
                 {index % 2 === 1 ? (

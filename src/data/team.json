@@ -68,5 +68,13 @@
   "Irene": {
     "foto": "irene.jpeg",
     "pais": "IT"
+  },
+  "Celia": {
+    "foto": "celia.jpeg",
+    "pais": "ES"
+  },
+  "Pablo": {
+    "foto": "pablo.jpeg",
+    "pais": "FR"
   }
 }
